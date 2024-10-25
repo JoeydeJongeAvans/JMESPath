@@ -103,4 +103,4 @@
   **Query:** `producten[*].{naam: naam, prijs: prijs}`  
   **Resultaat:** `[{"naam": "Boek", "prijs": 10}, {"naam": "Pen", "prijs": 2}]`
 
-Met deze voorbeelden kun je een goede start maken en je collega's op weg helpen met JMESPath. Het kan handig zijn om te experimenteren met een online JMESPath tester om snel resultaten te zien.
+
